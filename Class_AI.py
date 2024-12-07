@@ -1,0 +1,8 @@
+print ("Hellow World")
+print ("M Fahad Ahmed")
+print ("Target WallMart Fashion Accessories")
+print ("Hellow World",7*45.1429)
+print(8*6)
+print(16/8)
+print(8-6)
+print(8+6)
